@@ -1,5 +1,3 @@
-package model;
-
 public class Devise {
     private String nom;
     private String codeISO;
